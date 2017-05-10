@@ -13,7 +13,7 @@
 实现爱奇艺官方网站的主页设计，部分分区的界面显示，视频播放界面
 
 ## 界面设计
-！[] (http://github.com/zhq1516/raw/master/img/mainpage.png)
+！[] (http://github.com/zhq1516/final-exam/raw/master/img/mainpage.png)
 
 ## 功能模块
     1.主界面（详见爱奇艺主页）
