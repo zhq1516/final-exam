@@ -14,12 +14,8 @@
 
 ## 界面设计
 ![img/readme/mainpage.png](img/readme/mainpage.png)
-<<<<<<< HEAD
-=======
 ![img/readme/movie.png](img/readme/movie.png)
 ![img/readme/play.png](img/readme/play.png)
-        
->>>>>>> 0c2d2a0e746661face461fe7270ae78667a02407
 
 ## 功能模块
     1.主界面（详见爱奇艺主页）
